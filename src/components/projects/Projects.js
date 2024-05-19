@@ -25,11 +25,11 @@ const Projects = () => {
 />
 
 <ProjectsCard
-  title="Health Booker - MERN"
-  des="HealthBooker, A MERN-based solution for effortless hospital appointment bookings, enhancing healthcare accessibility. Streamline scheduling and elevate patient care with this intuitive and efficient web application."
+  title="ClinicLink- MERN"
+  des="ClinicLink, A MERN-based solution for effortless hospital appointment bookings, enhancing healthcare accessibility. Streamline scheduling and elevate patient care with this intuitive and efficient web application."
   src={projectTwo}
-  githubLink="https://github.com/gowtham-ravii/HealthBooker"
-  websiteLink="https://www.yourwebsite.com"
+  githubLink="https://github.com/gowtham-ravii/ClinicLiink/tree/main"
+  websiteLink="https://clinic-liink-1ztl.vercel.app/"
 />
 
 <ProjectsCard
@@ -45,13 +45,6 @@ const Projects = () => {
   des="Engineered AI-powered document retrieval system for local network. Implemented self-learning software to identify keywords in PDFs. Facilitated manual addition of user-specific folders for enhanced accessibility. "
   src={projectFour}
   githubLink="https://github.com/gowtham-ravii/VIRTUAL-LIBRARIAN-/tree/main/virtual_librarian_bit-main"
-  websiteLink="https://www.yourwebsite.com"
-/>
-<ProjectsCard
-  title="Safe She, Android APp"
-  des="Created SafeShe Android app with panic button for instant SMS and calls. Integrated SMSManager and ACTION_CALL intent for efficiency. Ensured privacy compliance and user-friendly interfaces. Proficient in Android Studio, Firebase, and user-centric design."
-  src={projectFive}
-  githubLink="https://github.com/gowtham-ravii/SafeShe"
   websiteLink="https://www.yourwebsite.com"
 />
 

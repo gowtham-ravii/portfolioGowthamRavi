@@ -9,7 +9,7 @@ import quote from "./images/testmonial/quote.png";
 import contactImg from "./images/contact/contactImg.png";
 import me from "./images/me.png";
 import projectFive from "./images/projects/projectFive.jpg";
-import projectTwo from "./images/projects/projectTwo.png";
+import projectTwo from "./images/projects/Clinic.jpg";
 import projectSix from "./images/projects/projectSix.png";
 
 export {

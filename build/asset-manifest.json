@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.54117fce.css",
-    "main.js": "/static/js/main.2222fe5c.js",
-    "static/media/me.png": "/static/media/me.c2132d54565042db16c3.png",
-    "static/media/projectThree.jpg": "/static/media/projectThree.34ad7cfc8a8dadd2638e.jpg",
-    "static/media/projectFour.jpg": "/static/media/projectFour.25625c92fc0d00657220.jpg",
-    "static/media/bannerImg.png": "/static/media/bannerImg.caa3d5e2872e84d77cf2.png",
-    "static/media/contactImg.png": "/static/media/contactImg.8ddfbfd11798f881db54.png",
-    "static/media/projectSix.png": "/static/media/projectSix.5b7f7df39be94f8be82a.png",
-    "static/media/testimonialOne.png": "/static/media/testimonialOne.c4706b2d1cadcb9f4daf.png",
-    "static/media/projectOne.jpg": "/static/media/projectOne.65ea732e4234035aeb5a.jpg",
-    "static/media/projectTwo.png": "/static/media/projectTwo.233e254184b7c2279904.png",
-    "static/media/projectFive.jpg": "/static/media/projectFive.dab240187750eabc799c.jpg",
-    "static/media/testimonialTwo.png": "/static/media/testimonialTwo.c6df2773c486964035d9.png",
-    "index.html": "/index.html",
-    "main.54117fce.css.map": "/static/css/main.54117fce.css.map",
-    "main.2222fe5c.js.map": "/static/js/main.2222fe5c.js.map"
+    "main.css": "/portfolioGowthamRavi/static/css/main.629639f3.css",
+    "main.js": "/portfolioGowthamRavi/static/js/main.0970ac23.js",
+    "static/media/me.png": "/portfolioGowthamRavi/static/media/me.c2132d54565042db16c3.png",
+    "static/media/projectThree.jpg": "/portfolioGowthamRavi/static/media/projectThree.34ad7cfc8a8dadd2638e.jpg",
+    "static/media/projectFour.jpg": "/portfolioGowthamRavi/static/media/projectFour.25625c92fc0d00657220.jpg",
+    "static/media/bannerImg.png": "/portfolioGowthamRavi/static/media/bannerImg.caa3d5e2872e84d77cf2.png",
+    "static/media/contactImg.png": "/portfolioGowthamRavi/static/media/contactImg.8ddfbfd11798f881db54.png",
+    "static/media/projectSix.png": "/portfolioGowthamRavi/static/media/projectSix.5b7f7df39be94f8be82a.png",
+    "static/media/testimonialOne.png": "/portfolioGowthamRavi/static/media/testimonialOne.c4706b2d1cadcb9f4daf.png",
+    "static/media/projectOne.jpg": "/portfolioGowthamRavi/static/media/projectOne.65ea732e4234035aeb5a.jpg",
+    "static/media/projectTwo.png": "/portfolioGowthamRavi/static/media/projectTwo.233e254184b7c2279904.png",
+    "static/media/projectFive.jpg": "/portfolioGowthamRavi/static/media/projectFive.dab240187750eabc799c.jpg",
+    "static/media/testimonialTwo.png": "/portfolioGowthamRavi/static/media/testimonialTwo.c6df2773c486964035d9.png",
+    "index.html": "/portfolioGowthamRavi/index.html",
+    "main.629639f3.css.map": "/portfolioGowthamRavi/static/css/main.629639f3.css.map",
+    "main.0970ac23.js.map": "/portfolioGowthamRavi/static/js/main.0970ac23.js.map"
   },
   "entrypoints": [
-    "static/css/main.54117fce.css",
-    "static/js/main.2222fe5c.js"
+    "static/css/main.629639f3.css",
+    "static/js/main.0970ac23.js"
   ]
 }

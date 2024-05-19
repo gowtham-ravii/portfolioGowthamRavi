@@ -18,18 +18,8 @@ export const featuresData = [
     id: 3,
 
     title: "Data Structures",
-    des: "I consistently practice Data Structures and Algorithms (DSA) and have solved over 200 problems on platforms like LeetCode and InterviewBit, enhancing my problem-solving skills.",
+    des: "I consistently practice Data Structures and Algorithms (DSA) and have solved over 400+ problems on platforms like LeetCode, enhancing my problem-solving skills.",
   },
-  {
-    id: 4,
-    icon: <FaPython />,
-    title: "Machine Learning",
-    des: "Passionate about machine learning, I have hands-on project experience in diverse areas, including human yoga pose estimation and telecommunication visualization.",
-  },
-  {
-    id: 5,
-    icon: <SiUikit/>,    title: "UI/UX Design",
-    des: "Experienced in UI/UX design, I've contributed to both mobile applications and web applications, refining user experiences.",
-  },
+  
   
 ];
